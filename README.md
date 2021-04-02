@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### So, who am I? 😄
 
-I am a simple guy - someone who likes to buold stuff - either from data or from scratch (whenever not much data is available of coure :P)
+I am a simple guy - someone who likes to build stuff - either from data or from scratch (whenever not much data is available of coure :P)
 
 I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EULAs)
 
