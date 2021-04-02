@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 I am a simple guy - someone who likes to buold stuff - either from data or from scratch (whenever not much data is available of coure :P)
 
-I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EU>As)
+I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EULAs)
 
-Some of my works: 
+### Some of my works: 
+
+1. Drax (My favourite piece of work)
+2. OpnRank (Another favourite)
+
