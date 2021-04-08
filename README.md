@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Anuran here!
+Anuran here! 
 
 <!--
 **anuran-roy/anuran-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,21 @@ Here are some ideas to get you started:
 
 ### So, who am I? 😄
 
-I am a simple guy - someone who likes to build stuff - either from data or from scratch (whenever not much data is available of coure :P)
+I am a simple guy - someone who likes to build stuff 🧑‍🔧- either from data or from scratch (whenever not much data is available of course 😜)
 
-I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EULAs)
+I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EULAs 😆)
+
+### What I work with:
+
+
 
 ### Some of my works: 
 
-1. Drax (My favourite piece of work)
-2. OpnRank (Another favourite)
+1. [Drax](https://github.com/anuran-roy/drax) (My favourite piece of work) 
+2. [OpnRank](https://github.com/anuran-roy/OpnRank) (Another favourite)
 
+### Status:
+
+#### 1. Actively Contributing to 😃: [**OWASP Maryam**](https://github.com/saeeddhqan/Maryam)
+#### 2. Working in free time on 😅: [**Drax**](https://github.com/anuran-roy/drax)
+#### 3. Almost on hiatus 🙁: [**OpnRank**](https://github.com/anuran-roy/OpnRank)
