@@ -37,3 +37,13 @@ I started coding on my own from free tutorials online, which built into me the h
 #### 1. Actively Contributing to 😃: [**OWASP Maryam**](https://github.com/saeeddhqan/Maryam)
 #### 2. Working in free time on 😅: [**Drax**](https://github.com/anuran-roy/drax)
 #### 3. Almost on hiatus 🙁: [**OpnRank**](https://github.com/anuran-roy/OpnRank)
+
+### My pastimes:
+
+When you'll not find me coding, you'll find doing one of these stuff:
+
+1. Sleeping,
+2. Playing football,
+3. Reading storybooks,
+4. Surfing sites for new buzzwords, or
+5. Reading books.
