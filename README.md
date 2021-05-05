@@ -48,3 +48,5 @@ When you'll not find me coding, you'll find doing one of these stuff:
 3. Reading storybooks,
 4. Surfing sites for new buzzwords, or
 5. Reading books.
+
+[![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy)](https://github.com/anuraghazra/github-readme-stats)
