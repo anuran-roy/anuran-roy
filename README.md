@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### So, who am I? 😄
 
 I am a simple guy - someone who likes to build stuff 🧑‍🔧- either from data or from scratch (whenever not much data is available of course 😜)
@@ -49,4 +53,3 @@ When you'll not find me coding, you'll find doing one of these stuff:
 4. Surfing sites for new buzzwords, or
 5. Reading books.
 
-[![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy)](https://github.com/anuraghazra/github-readme-stats)
