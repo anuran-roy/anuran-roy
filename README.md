@@ -59,11 +59,11 @@ When you'll not find me coding, you'll find doing one of these stuff:
 A summary of what I do (again):
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/anuran-roy/anuran-roy/blob/master/github-metrics.svg)
+<!-- ![Metrics](https://github.com/anuran-roy/anuran-roy/blob/master/github-metrics.svg) -->
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/anuran-roy/anuran-roy/blob/main/github-metrics.svg)
 <!-- If you're using the "columns" display mode -->
-<img src="https://github.com/anuran-roy/anuran-roy/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+<!-- <img src="https://github.com/anuran-roy/anuran-roy/blob/master/github-metrics.svg" alt="Metrics" width="100%"> -->
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
