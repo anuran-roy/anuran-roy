@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=anuran-roy&color=6ad600)
 
 ### So, who am I? 😄
 
@@ -30,8 +31,8 @@ I started coding on my own from free tutorials online, which built into me the h
 ### What I work with:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuran-roy&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Some of my works: 
 
