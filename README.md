@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anuran-roy&theme=gruvbox_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=anuran-roy&color=6ad600)
 
 ### So, who am I? 😄
