@@ -59,9 +59,9 @@ I started coding on my own from free tutorials online, which built into me the h
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 
+#### My Coding stats:
 
-<!-- 
-[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark) <!--](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### Other tech stuff that I work, or am familiar with: 
 
