@@ -63,6 +63,8 @@ I started coding on my own from free tutorials online, which built into me the h
 
 ![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark) <!--](https://github.com/anuraghazra/github-readme-stats) -->
 
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=anuran-roy&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)
+
 #### Other tech stuff that I work, or am familiar with: 
 
 
