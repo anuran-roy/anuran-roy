@@ -30,6 +30,13 @@ I am a simple guy - someone who likes to build stuff 🧑‍🔧- either from da
 
 I started coding on my own from free tutorials online, which built into me the habit of reading documentation. (Yeah, even the EULAs 😆)
 
+Some of my other qualities:
+
+1. I love anime.
+2. I have quite a sense of humour (a bragging right indeed 😝)
+3. I love exploring unknown and unconventional stuff when I am totally jobless.
+4. I have a lot of quirky knacks - psychology, marketing and observing patterns are some of them.
+
 #### Find me on:
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tinker.hashnode.dev/)
