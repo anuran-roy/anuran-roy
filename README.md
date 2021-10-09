@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anuran-roy&theme=gruvbox_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Some more stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true)
+![Some more stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anuran-roy&color=6ad600)
 
