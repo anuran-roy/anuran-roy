@@ -145,7 +145,7 @@ Some of my other qualities:
 
 ## Some of my works: 
 
-1. [Pymetrix](https://github.com/anuran-roy/drax) (Currently working on it actively 😃)
+1. [Pymetrix](https://github.com/anuran-roy/pymetrix) (Currently working on it actively 😃)
 2. [OpnEco](https://github.com/anuran-roy/OpnEco) (Another favourite)
 3. [Campus Saathi](https://github.com/anuran-roy/drax) Deployed on: [Campus Saathi Repl](https://campusseva1.misternegative21.repl.co)
 4. [Voice-to-Command CLI assistant](https://github.com/anuran-roy/nlp-project) (My NLP project)
