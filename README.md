@@ -74,6 +74,12 @@ Some of my other qualities:
 
 ### My Coding stats:
 
+Total time coded since Jul 16 2021:
+
+![Total time coded since Jul 16 2021](https://wakatime.com/badge/user/52636634-764b-4af3-9268-40dde0bec3ec.svg?label=Total&style=for-the-badge)
+
+Detailed Distribution:
+
 ![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuranroy&theme=chartreuse-dark) <!--](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=anuran-roy&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)
