@@ -1,3 +1,6 @@
+![My Portfolio](https://user-images.githubusercontent.com/76481787/160322271-f574ecd7-f069-48b1-9ce5-a9639e2c2294.png)
+
+
 ### Hi there 👋
 
 Anuran here! 
