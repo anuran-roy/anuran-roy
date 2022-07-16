@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Some more stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
 
+![Metrics](https://metrics.lecoq.io/anuran-roy)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=anuran-roy&color=6ad600)
 
 ## So, who am I? 😄
