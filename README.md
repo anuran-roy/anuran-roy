@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/anuran-roy/anuran-roy/blob/master/devcard.svg" width="400" alt="Anuran Roy's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="./devcard.svg" width="400" alt="Anuran Roy's Dev Card"/></a>
 
 [![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -127,12 +127,20 @@ Detailed Distribution:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### Deployment:
+#### CI/CD:
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### Cloud:
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Design:
 
@@ -156,21 +164,6 @@ Detailed Distribution:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-## Some of my works: 
-
-1. [Pymetrix](https://github.com/anuran-roy/pymetrix) (Currently working on it actively 😃)
-2. [OpnEco](https://github.com/anuran-roy/OpnEco) (Another favourite)
-3. [Campus Saathi](https://github.com/anuran-roy/drax) Deployed on: [Campus Saathi Repl](https://campusseva1.misternegative21.repl.co)
-4. [Voice-to-Command CLI assistant](https://github.com/anuran-roy/nlp-project) (My NLP project)
-5. [CPPChain](https://github.com/anuran-roy/cppchain) (A crude implementation of a blockchain in pure CPP)
-
-<!-- ## Status:
-
-#### 0. Working mainly on 🤩: [**OpnEco**](https://github.com/anuran-roy/OpnEco) and [**Campus Saathi**](https://github.com/anuran-roy/hacknpitch)
-#### 1. Contributing in my free time to 😃: [**OWASP Maryam**](https://github.com/saeeddhqan/Maryam)
-#### 2. Working in free time on 😅: [**Drax**](https://github.com/anuran-roy/drax) and [**BarebonesDB**](https://github.com/anuran-roy/BarebonesDB)
-#### 3. Almost on hiatus 🙁: [**OpnRank**](https://github.com/anuran-roy/OpnRank) -->
 
 ## My pastimes:
 
