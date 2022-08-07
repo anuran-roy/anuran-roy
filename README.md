@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/anuran-roy/anuran-roy/blob/master/devcard.svg" width="400" alt="Anuran Roy's Dev Card"/></a>
 
 [![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuran-roy&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
